@@ -1,2 +1,2 @@
 # View-Model-Test-app
-Example use of Arch Component Model View In a Choose Android Icon Color
+Example Use of Arch Component Model View In a Android Icon Color Pick App
